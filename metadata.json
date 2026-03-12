@@ -1,0 +1,5 @@
+{
+  "name": "OSN SMP Master",
+  "description": "Aplikasi latihan Olimpiade Sains Nasional (OSN) tingkat SMP dengan generator soal AI.",
+  "requestFramePermissions": []
+}
